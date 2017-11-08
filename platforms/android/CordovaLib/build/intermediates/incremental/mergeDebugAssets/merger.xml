@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="G:\Semester 3\Mobile Innovation\JQuery_Project\Projects\myMobileApp\platforms\android\CordovaLib\assets"/><source path="G:\Semester 3\Mobile Innovation\JQuery_Project\Projects\myMobileApp\platforms\android\CordovaLib\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\Semester 3\Mobile Innovation\JQuery_Project\Projects\myMobileApp\platforms\android\CordovaLib\src\debug\assets"/></dataSet></merger>
